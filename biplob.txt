@@ -1,2 +1,6 @@
 something garyo biplob
+<<<<<<< HEAD
 biplove change this 
+=======
+bibek chnage thisssssssssss
+>>>>>>> 5ccec7ed65e49ed515bf3c1aee7a335d6351e4f4
